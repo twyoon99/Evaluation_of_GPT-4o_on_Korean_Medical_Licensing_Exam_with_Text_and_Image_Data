@@ -49,21 +49,22 @@
 
 
 ### Example
+## Provide both text and image context to GPT-4o
 
-#### - Question
+  - Question
   5세 남아가 ２시간 전부터 발생한 피부 발진으로 병원에 왔다. 3시간 전에 가족들과 외식을 했고, 식사하고 １시간 후에 몸이 가려워지면서 발진이 나타났다. 체온 36.5℃이다. 피부 사진 (사진 35)이다. 혈액검사 결과는 다음과 같다. 원인 매개체는?
   
   혈색소 13.8 g/dL, 백혈구 9,800/mm3 (중성구 40%, 림프구 52%, 호산구 2%)
 
 ![image](https://github.com/user-attachments/assets/79365c78-e945-419d-ad82-10bc6b9f6b2f)
 
-#### - Choices
+  - Choices
   1. 보체
   2. 히스타민
   3. 브라디키닌
   4. 인터페론감마
   5. 인터루킨-10
 
-## Provide both text and image context to GPT-4o
-
 ---
+### Workflow
+![image](https://github.com/user-attachments/assets/e7e7a0e5-9a44-4604-a891-a697c62aa0c0)
