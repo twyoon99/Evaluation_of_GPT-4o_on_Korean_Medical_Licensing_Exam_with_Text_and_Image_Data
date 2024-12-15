@@ -71,14 +71,17 @@
 
 #### Provide both text and image context to GPT-4o
 
----
-
 
 ### Workflow
+
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/98dcc8ed-fa42-465b-95a2-6abd9fb8d02b" />
 
 
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/758e3f35-28f1-4c39-9f36-5631e58fa098" />
 
 
----
+### Full prompt and response example
+
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/1e640586-2730-476b-b4e6-f1d459ed6c2c" />
+
 
