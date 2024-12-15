@@ -1,4 +1,4 @@
-# Korea Clinical Datathon 2024 
+<img width="1211" alt="image" src="https://github.com/user-attachments/assets/5ae6de59-bd56-46d8-a932-1e050d30f85a" /># Korea Clinical Datathon 2024 
 
 
 ## Evaluating the performance of GPT-4o on Korean Medical Licensing Examinations using both text and image data (+ possible bias perpetuated in GPT-4o)
@@ -68,5 +68,8 @@
 ---
 ### Workflow
 
-![Uploading image.png…]()
+<img width="1211" alt="image" src="https://github.com/user-attachments/assets/79c0513b-a527-4ef3-ae56-6e86e382ba23" />
+
+![image](https://github.com/user-attachments/assets/d1bc0d2a-d09a-4ea9-b0f6-d4e0afed0e43)
+
 
