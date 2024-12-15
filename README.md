@@ -71,7 +71,6 @@
 
 ## Provide both text and image context to GPT-4o
 
-
 ---
 
 
