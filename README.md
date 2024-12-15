@@ -9,8 +9,8 @@
 ---
 
 
-### Introduction
-#### Background
+## Introduction
+### Background
 
 
   - GPT-4o : Multimodal model has been introduced
@@ -25,7 +25,7 @@
   - Bias might be perpetuated in LLMs
 
 
-#### Objectives
+### Objectives
   - Evaluate GPT-4o’s accuracy on the KMLE using both text and image data
 
   - Compare the accuracy between providing images and providing text only.
@@ -40,18 +40,18 @@
 
 ---
 
-### Methods
-#### Dataset
+## Methods
+### Dataset
 
-##### - Example
+#### - Example
 
-##### - Question
+#### - Question
   5세 남아가 ２시간 전부터 발생한 피부 발진으로 병원에 왔다. 3시간 전에 가족들과 외식을 했고, 식사하고 １시간 후에 몸이 가려워지면서 발진이 나타났다. 체온 36.5℃이다. 피부 사진 (사진 35)이다. 혈액검사 결과는 다음과 같다. 원인 매개체는?
   혈색소 13.8 g/dL, 백혈구 9,800/mm3 (중성구 40%, 림프구 52%, 호산구 2%)
 
 ![image](https://github.com/user-attachments/assets/79365c78-e945-419d-ad82-10bc6b9f6b2f)
 
-##### - Choices
+#### - Choices
   1. 보체
   2. 히스타민
   3. 브라디키닌
