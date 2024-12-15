@@ -21,11 +21,16 @@
 
 
 #### Objectives
-Evaluate GPT-4o’s accuracy on the KMLE using both text and image data
-Compare the accuracy between providing images and providing text only.
-Evaluate possible bias perpetuated in GPT-4o
-Evaluate the impact of different sex and race/ethnicity instructions on the performance of GPT-4o in generating responses to test questions
-Evaluate accuracy across subjects
-Evaluate different prompting strategies (ex. CoT vs no CoT)   (CoT: chain of thought prompting)
+  - Evaluate GPT-4o’s accuracy on the KMLE using both text and image data
+
+  - Compare the accuracy between providing images and providing text only.
+
+  - Evaluate possible bias perpetuated in GPT-4o
+
+  - Evaluate the impact of different sex and race/ethnicity instructions on the performance of GPT-4o in generating responses to test questions
+
+  - Evaluate accuracy across subjects
+
+  - Evaluate different prompting strategies (ex. CoT vs no CoT)   (CoT: chain of thought prompting)
 
 
