@@ -8,10 +8,16 @@
 #### Background
 
 
-  GPT-4o : Multimodal model has been introduced
-  There are no studies evaluating the performance of LLM on KMLE yet. 
-  There are no studies evaluating the Medical Licensing Examination using GPT-4o yet.
-  Bias might be perpetuated in LLMs
+  - GPT-4o : Multimodal model has been introduced
+
+    
+  - There are no studies evaluating the performance of LLM on KMLE yet.
+
+    
+  - There are no studies evaluating the Medical Licensing Examination using GPT-4o yet.
+
+    
+  - Bias might be perpetuated in LLMs
 
 
 #### Objectives
