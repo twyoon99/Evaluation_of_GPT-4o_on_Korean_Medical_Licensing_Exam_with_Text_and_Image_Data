@@ -6,6 +6,7 @@
 
 ### Team Name : Bias, By us!
 
+
 ---
 
 
@@ -26,6 +27,8 @@
 
 
 ### Objectives
+
+
   - Evaluate GPT-4o’s accuracy on the KMLE using both text and image data
 
   - Compare the accuracy between providing images and providing text only.
@@ -68,6 +71,7 @@
 
 ## Provide both text and image context to GPT-4o
 
+
 ---
 
 
@@ -77,5 +81,5 @@
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/758e3f35-28f1-4c39-9f36-5631e58fa098" />
 
 
-
+---
 
