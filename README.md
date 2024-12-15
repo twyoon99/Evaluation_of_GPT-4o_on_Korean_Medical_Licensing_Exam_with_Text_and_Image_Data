@@ -68,9 +68,8 @@
 ---
 ### Workflow
 
-<img width="1211" alt="image" src="https://github.com/user-attachments/assets/79c0513b-a527-4ef3-ae56-6e86e382ba23" />
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/758e3f35-28f1-4c39-9f36-5631e58fa098" />
 
-<img width="995" alt="image" src="https://github.com/user-attachments/assets/c50df24a-6c6b-4e53-8188-7fee01b555e0" />
 
 
 
