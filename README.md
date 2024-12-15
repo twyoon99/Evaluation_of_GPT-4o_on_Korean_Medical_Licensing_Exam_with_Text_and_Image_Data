@@ -41,6 +41,7 @@
 
   - Evaluate different prompting strategies (ex. CoT vs no CoT)   (CoT: chain of thought prompting)
 
+
 ---
 
 
@@ -50,7 +51,6 @@
 
   - 2019 ~ 2023 KMLE data
   - With images
-
 
 
 ### Example
