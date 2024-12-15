@@ -1,5 +1,9 @@
 # Korea Clinical Datathon 2024 
+
+
 ## Evaluating the performance of GPT-4o on Korean Medical Licensing Examinations using both text and image data (+ possible bias perpetuated in GPT-4o)
+
+
 ### Team Name : Bias, By us!
 ---
 
