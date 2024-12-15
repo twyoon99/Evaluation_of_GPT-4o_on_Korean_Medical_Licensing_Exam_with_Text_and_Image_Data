@@ -77,7 +77,7 @@
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/98dcc8ed-fa42-465b-95a2-6abd9fb8d02b" />
 
 
-<img width="1213" alt="image" src="https://github.com/user-attachments/assets/758e3f35-28f1-4c39-9f36-5631e58fa098" />
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/4f239926-dfa7-40f1-868d-5335d5c41ec1" />
 
 
 ### Full prompt and response example
