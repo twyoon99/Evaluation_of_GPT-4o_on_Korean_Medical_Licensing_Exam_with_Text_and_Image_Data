@@ -69,7 +69,7 @@
   4. 인터페론감마
   5. 인터루킨-10
 
-## Provide both text and image context to GPT-4o
+#### Provide both text and image context to GPT-4o
 
 ---
 
