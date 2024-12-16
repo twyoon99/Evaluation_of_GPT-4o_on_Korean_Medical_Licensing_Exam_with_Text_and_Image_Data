@@ -121,5 +121,40 @@ __Correct answer in KMLE__ (Korean law): 소속 의료기관의 장 (Head of the
 
 __GPT-4o response__: 관할 보건소장 (Head of the local health center)
 
+
 __US Law__: Local health jurisdiction
+
+
+- ### Example of an incorrect GPT-4o response in the “preventive medicine” subject
+
+
+![image](https://github.com/user-attachments/assets/95ef82d8-9ff9-4acc-908d-d32a81230093)
+
+---
+## Discussion
+
+
+- GPT-4o achieved an accuracy of 0.838 on the KMLE using both text and image data
+
+  
+- Questions were provided in Korean.
+
+  
+- Providing images compared to providing text only improved accuracy, with marginal statistical significance
+
+  
+- Even when the test-taker's sex and race/ethnicity were set differently as instructions to GPT-4o, no bias was observed.
+
+  
+- Accuracy was low in the following subjects
+
+  
+  - “Health policy”: Different laws across countries?
+  - 
+  - “Preventive medicine”: difficult task for GPT-4o
+ 
+    
+- Well-known prompting stratigies such as CoT was indeed necessary.
+
+
 
