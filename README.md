@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4d28c6d5-314d-4dc2-969d-ba0648aae421)# Korea Clinical Datathon 2024 
+# Korea Clinical Datathon 2024 
 
 
 ---
