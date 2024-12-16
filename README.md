@@ -1,4 +1,4 @@
-# Korea Clinical Datathon 2024 
+![image](https://github.com/user-attachments/assets/4d28c6d5-314d-4dc2-969d-ba0648aae421)# Korea Clinical Datathon 2024 
 
 
 ---
@@ -110,4 +110,16 @@
 
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/9fc0b6b4-0749-480f-933f-70746e8b9e0f" />
 
+
+### Example of an incorrect GPT-4o response in the “health policy” subject
+  #### Example of an incorrect GPT-4o response that might have been caused by different laws across countries.
+
+
+__Question__: 콜레라에 걸리면 의사는 어디에 신고해야하는가? (Where should a doctor report if someone contracts cholera?)
+__Correct answer in KMLE__ (Korean law): 소속 의료기관의 장 (Head of the affiliated medical institution)
+
+
+__GPT-4o response__: 관할 보건소장 (Head of the local health center)
+
+__US Law__: Local health jurisdiction
 
