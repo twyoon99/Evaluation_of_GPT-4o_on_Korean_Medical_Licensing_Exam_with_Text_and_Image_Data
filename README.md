@@ -174,6 +174,6 @@ __US Law__: Local health jurisdiction
     - Other MLEs. (ex. USMLE)
    
       
-    - More years (ex. 2020~2023)
+    - More years (ex. 2020~2023)ㅇ
 
 ---
