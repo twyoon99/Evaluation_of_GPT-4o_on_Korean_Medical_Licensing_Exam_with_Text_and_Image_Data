@@ -150,11 +150,34 @@ __US Law__: Local health jurisdiction
 
   
   - “Health policy”: Different laws across countries?
-  - 
   - “Preventive medicine”: difficult task for GPT-4o
  
     
 - Well-known prompting stratigies such as CoT was indeed necessary.
+
+
+- ### Future plans
+  - #### Manuscript?
+ 
+    
+    - Few shot prompting
+   
+      
+    - Comparison with other local-version models (ex. Bllossom/llama-3-Korean-Bllossom-70B)
+   
+      
+    - Rotation, blurring, etc of images?
+   
+      
+    - Better prompting strategy to guide GPT-4o to refer to images more effectively?
+   
+      
+    - Other MLEs. (ex. USMLE)
+   
+      
+    - More years (ex. 2020~2023)
+
+
 
 
 
