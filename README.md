@@ -159,7 +159,6 @@ __US Law__: Local health jurisdiction
 - ### Future plans
   - #### Manuscript?
  
-    
     - Few shot prompting
    
       
