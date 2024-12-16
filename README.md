@@ -177,7 +177,4 @@ __US Law__: Local health jurisdiction
       
     - More years (ex. 2020~2023)
 
-
-
-
-
+---
